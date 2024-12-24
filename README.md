@@ -30,6 +30,13 @@ This STM32F1038TX development board is designed for embedded system developers a
 - **Input Voltage:** 5V via USB
 - **Regulated Voltage:** 3.3V via AMS1117
 
+## Schematic
+
+## Routing 
+<img width="554" alt="Screenshot 2024-12-24 at 9 16 29 AM" src="https://github.com/user-attachments/assets/58a99650-8df6-4bcb-94eb-114ef4159d9f" />
+
+
+
 ## Programming and Debugging
 1. Use an SWD programmer (e.g., ST-Link V2) for flashing firmware.
 2. Ensure BOOT0 is set to 0 for normal operation, 1 for DFU/bootloader mode.
