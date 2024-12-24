@@ -5123,7 +5123,7 @@
 		)
 		(uuid "8f1f666b-d64f-473f-b557-5a95309e774f")
 	)
-	(text "STM32 Custom Breakout Board\n"
+	(text "STM32 Custom Development Board\n"
 		(exclude_from_sim no)
 		(at 104.394 20.828 0)
 		(effects
