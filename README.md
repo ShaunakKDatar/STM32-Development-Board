@@ -34,7 +34,9 @@ This STM32F1038TX development board is designed for embedded system developers a
 <img width="892" alt="Screenshot 2024-12-24 at 9 17 16 AM" src="https://github.com/user-attachments/assets/a8aae268-ce2d-47dd-aed7-900b70f13974" />
 
 ## Routing 
-<img width="554" alt="Screenshot 2024-12-24 at 9 16 29 AM" src="https://github.com/user-attachments/assets/58a99650-8df6-4bcb-94eb-114ef4159d9f" />
+<img width="554" alt="Screenshot 2024-12-24 at 9 16 29 AM" src="https://github.com/user-attachments/assets/58a99650-8df6-4bcb-94eb-114ef4159d9f" /> 
+<img width="554" alt="Screenshot 2024-12-24 at 9 16 38 AM" src="https://github.com/user-attachments/assets/e7807758-085b-4c1a-9ed3-cc9b7e3f896c" />
+
 
 
 
