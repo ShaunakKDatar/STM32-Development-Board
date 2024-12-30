@@ -46,6 +46,20 @@ This STM32F1038TX development board is designed for embedded system developers a
 - Avoid short circuits on the board.
 - Handle components with care.
 
+## Schematics
+<img width="832" alt="Screenshot 2024-12-30 at 3 51 30 PM" src="https://github.com/user-attachments/assets/82357a1a-a06c-47fd-ab5a-4c7681131865" />
+
+
+## PCB Routing
+<img width="832" alt="Screenshot 2024-12-30 at 3 52 11 PM" src="https://github.com/user-attachments/assets/32d763b7-f961-4a5c-9756-34d47c28c823" />
+<img width="832" alt="Screenshot 2024-12-30 at 3 52 20 PM" src="https://github.com/user-attachments/assets/65bbb700-f78e-46c7-bfe0-e13bd799b4f1" />
+
+
+
+## 3D Model
+<img width="780" alt="Screenshot 2024-12-30 at 3 52 34 PM" src="https://github.com/user-attachments/assets/512e9c35-3c09-40c5-94fb-0a0e3fe0752b" />
+
+
 ## Resources
 - [STM32F103 Reference Manual](https://www.st.com/resource/en/reference_manual/cd00171190.pdf)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
